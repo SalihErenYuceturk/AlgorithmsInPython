@@ -1,4 +1,4 @@
-# AlgorithmsInPython
+# algorithms_in_python
 Implementation of basic algorithms in python.
 - linear search
 - binary search
